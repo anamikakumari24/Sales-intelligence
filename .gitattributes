@@ -1,0 +1,11 @@
+* text=auto
+*.md text
+*.json text
+*.pbip text
+*.pbir text
+*.pbism text
+*.tmdl text
+*.platform text
+*.csv text
+*.pbix binary
+*.abf binary
